@@ -1,0 +1,30 @@
+[
+  {
+    "id" : 9,
+    "title" : "Grape Juice White",
+    "imgUrl" : "img/items/items9.jpg",
+    "content" : "Juice",
+    "price" : "€26.50"
+  },
+  {
+    "id" : 10,
+    "title" : "Pear Juice",
+    "imgUrl" : "img/items/items10.jpg",
+    "content" : "Juice",
+    "price" : "€12.75"
+  },
+  {
+     "id" : 11,
+    "title" : "Pure Organic Pomegranate",
+    "imgUrl" : "img/items/items11.jpg",
+    "content" : "Juice",
+    "price" : "€49.95"
+  },
+ {
+     "id" : 12,
+    "title" : "Orange Juice",
+    "imgUrl" : "img/items/items12.jpg",
+    "content" : "Juice",
+    "price" : "€10.95"
+  }
+]

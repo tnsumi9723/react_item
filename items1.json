@@ -1,0 +1,31 @@
+[
+    {
+      "id" : 5,
+      "title" : "Rib Fillet Steak",
+      "imgUrl" : "img/items/items5.jpg",
+      "content" : "Butcher",
+      "price" : "€43.25"
+    },
+    {
+      "id" : 6,
+      "title" : " Duck Breast",
+      "imgUrl" : "img/items/items6.jpg",
+      "content" : "Butcher",
+      "price" : "€48.75"
+    },
+    {
+       "id" : 7,
+      "title" : "Bacon",
+      "imgUrl" : "img/items/items7.jpg",
+      "content" : "Butcher",
+      "price" : "€37.25"
+    },
+   {
+       "id" : 8,
+      "title" : "Norwegian Salmon",
+      "imgUrl" : "img/items/items8.jpg",
+      "content" : "Butcher",
+      "price" : "€46.85"
+    }
+  ]
+  
